@@ -1,10 +1,10 @@
 ---
-title: "Multi-Layer-NLP-T-Test-Results"
+title: "Statistical_Analysis"
 format: html
 ---
 
 ```{r}
-data <- read.csv("dominance_frame_results.csv")
+data <- read.csv("Making_the_Opponent_Look_Small_results.csv")
 data
 ```
 
@@ -67,7 +67,7 @@ for (var in vars) {
 
 
 ```{r}
-data2 <- read.csv("scored_speeches.csv")
+data2 <- read.csv("Us_vs_Them_Framing.csv")
 ```
 
 
